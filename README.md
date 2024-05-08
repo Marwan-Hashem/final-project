@@ -8,4 +8,4 @@ streamlit run final.py
 ```
 or by visiting the streamlist cloud link:
 
-https://final-project-marad.streamlit.app
+https://final-project-mar-ad.streamlit.app/
